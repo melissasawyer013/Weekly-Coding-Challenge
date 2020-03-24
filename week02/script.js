@@ -1,1 +1,8 @@
-// This is just a example script template
+let chr=``;
+for (let x = 1; x<= 6; x++) {
+    for (y=1; y<x; y++) {
+        chr=chr+(`*`);
+    }
+    console.log(chr);
+    chr="";
+} 
