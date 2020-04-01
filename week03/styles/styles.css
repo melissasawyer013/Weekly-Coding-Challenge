@@ -22,12 +22,12 @@ ol {
     font-style: italic;
 }
 
-.image-container{
+.image-container {
     display: flex;
     justify-content: center;
 }
 
-#myImage{
+#myImage {
     width: 400px;
     height: 550px;
 }
