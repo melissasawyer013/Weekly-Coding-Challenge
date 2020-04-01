@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(#e33c3c, #fcf400);
+}
+
+h1 {
+    font-size: 75px;
+    font-family: 'Righteous', cursive;;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: 'Righteous', cursive;;
+}
+
+p {
+    font-size: 25px;
+}
+
+ol {
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.image-container{
+    display: flex;
+    justify-content: center;
+}
+
+#myImage{
+    width: 400px;
+    height: 550px;
+}
