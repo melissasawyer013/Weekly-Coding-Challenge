@@ -1,4 +1,4 @@
-## Week #2 - Remove the BugBear!
+## Week #3 - Remove the BugBear!
 
 Start Date: 2020.03.25
 End Date: 2020.04.01
